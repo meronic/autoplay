@@ -99,10 +99,7 @@ def clean_youtube_title(raw: str) -> str:
 
 # 유튜브 창 찾기
 def find_youtube_window(exclude_hwnd=None):
-    """
-    제목에 'youtube'가 들어간 첫 번째 창을 찾는다.
-    exclude_hwnd(우리 GUI hwnd)는 무조건 건너뛴다.
-    """
+
     found_hwnd = [None]
     found_title = [""]
 
