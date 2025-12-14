@@ -1,0 +1,16 @@
+{
+  "browser_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "start_time": "06:50",
+  "end_time": "07:50",
+  "test_duration_min": 3,
+
+  "tracks": [
+    "https://www.youtube.com/watch?v=Ofq11cvq_v4&list=RDOfq11cvq_v4&start_radio=1"
+  ],
+
+  "ui": {
+    "always_on_top_default": true,
+    "window_title": "YouTube Music Timer",
+    "icon_file": "icon.png"
+  }
+}
